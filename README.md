@@ -15,9 +15,9 @@ A Python desktop application for managing student records. Built for small schoo
 
 ## Screenshots
 
-![Main Window](screenshot1.png)
-![Student List](screenshot2.png)
-![Search Feature](screenshot3.png)
+![Main Window](screenshot(11).png)
+![Student List](screenshot(8).png)
+![Search Feature](screenshot(9).png)
 
 ## Tech Stack
 
